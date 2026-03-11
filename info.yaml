@@ -1,5 +1,5 @@
 # Tiny Tapeout project information
-project:
+project:        "Lab_7"
   title:        "tt_rup55_multiplier"      # Project title
   author:       "rushabh1012"      # Your name
   discord:      "rushabh1012"      # Your discord username, for communication and automatically assigning you a Tapeout role (optional)
